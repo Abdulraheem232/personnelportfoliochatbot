@@ -1,6 +1,4 @@
-Here's a professional and engaging `README.md` for your GitHub repository that showcases your personal portfolio chatbot powered by a pretrained T5 transformer:
 
----
 
 ```markdown
 # 🤖 Personal Portfolio Chatbot
@@ -50,10 +48,10 @@ portfolio-chatbot/
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
-   ```bash
+   ``bash
    git clone https://github.com/Abdulraheem232/personnelportfoliochatbot.git
-   cd oersonnelportfoliochatbot
-````
+   cd personnelportfoliochatbot
+```
 
 2. **Install dependencies**
 
