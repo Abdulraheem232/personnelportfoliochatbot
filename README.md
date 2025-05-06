@@ -48,7 +48,7 @@ portfolio-chatbot/
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
-   ``bash
+   ```bash
    git clone https://github.com/Abdulraheem232/personnelportfoliochatbot.git
    cd personnelportfoliochatbot
 ```
